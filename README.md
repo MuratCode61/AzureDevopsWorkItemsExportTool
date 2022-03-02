@@ -1,7 +1,5 @@
 ## AzureDevopsWorkItemsExportTool
 
----
-
 This software export work items, work item comments, attached files to work items and screenshot in comments, descriptions or retrosteps fields. After software run, folder named `WorkItems` is created. `WorkItems` folder contains sub folders that contains attachments and screenshots for each work item. In addition, an Excel file containing the title, description, comment, etc. information of the Work Items is created under the `WorkItems` folder.
 
 ![image](https://user-images.githubusercontent.com/68951149/156126460-b23bb483-94fd-4875-8fdf-65dc19f4a17a.png)
@@ -28,7 +26,7 @@ If a screenshot is needed for explanation, the screenshot is referenced as “lo
 
 ![image](https://user-images.githubusercontent.com/68951149/156128298-1fca16cd-d277-471c-8f05-7f4599e2944a.png)
 
-### Configure for Running Software
+### Necessary Configurations To Run The Software
 
 ---
 
